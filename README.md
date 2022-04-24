@@ -1,8 +1,9 @@
 # Projeto Library
 ## Sumarry:
 
-- Language: <i>Python</i>
-- Framework: <i>Django</i>
+- Language: *Python*
+- Framework: *Django*
+- Tutorial: [*Pedro Impulcetto*](https://www.youtube.com/watch?v=wtl8ZyCbTbg)
 
 ## Steps:
 1. Configurações iniciais
